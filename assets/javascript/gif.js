@@ -24,6 +24,7 @@ $(document).ready(function () {
             method: "GET"
         }).done(function (response) {
 
+            // testing
             console.log(response);
 
             var results = response.data;

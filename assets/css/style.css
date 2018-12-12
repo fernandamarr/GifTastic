@@ -23,7 +23,7 @@ button:hover {
     color: white;
 }
 
-/* user input form */
+/* add gif form */
 form {
     position: absolute;
     top: 200px;
@@ -33,7 +33,7 @@ form {
     float: right;
 }
 
-/* "giftastic" input form button */
+/* "giftastic" form button */
 #add-gif {
     margin-top: 10px;
     margin-left: 100px;
