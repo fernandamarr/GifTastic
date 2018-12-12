@@ -1,18 +1,41 @@
 <!doctype html>
 <html lang="en-us">
-    <head>
-        <meta charset="utf-8">
-        <title>GifTastic</title>
-    </head>
 
-    <body>
+<head>
+    <meta charset="utf-8">
+    <title>GifTastic</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
+        crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
 
-    </body>
+<body>
+    <div id="button-wrapper">
+        <div id="buttons-view"></div>
+        <div id="topics"></div>
+        <div id="all-the-buttons"></div>
+        <br>
+    </div>
+    <div id="gif-wrapper">
+        <div id="gif-display"></div>
+    </div>
 
-    <script>
-    
-        var topics = ["bored", "awkward", "drunk", "excited", "hungry", "mind blown", "confused", "frustrated", "tired", "shocked"]
+    <!-- form that lets user add gif -->
+    <form id="gif-form">
+        <label for="gif-input">Add a cartoon!</label>
+        <input type="text" id="gif-input"><br>
 
-    </script>
+        <!-- Button triggers new gif to be added -->
+        <input id="add-gif" type="submit" value="GifTastic!">
+    </form>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Script -->
+    <script src="gif.js"></script>
+
+</body>
 
 </html>

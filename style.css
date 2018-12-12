@@ -1,0 +1,57 @@
+body {
+    font: 15px arial, sans-serif;
+    background-color: rgba(124, 223, 216, 0.2);
+}
+
+/* topics buttons */
+#button-wrapper {
+    background-color: #89bcda;
+}
+button {
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 8px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.3s;
+    color: #a1d3eb;
+    background-color: #3e0853;
+}
+
+button:hover {
+    background-color: #81bcd8;
+    color: white;
+}
+
+/* user input form */
+form {
+    position: absolute;
+    top: 200px;
+    right: 100px;
+    margin: 0 auto;
+    margin-right: 0px;
+    float: right;
+}
+
+/* "giftastic" input form button */
+#add-gif {
+    margin-top: 10px;
+    margin-left: 100px;
+    border-radius: 8px;
+    padding: 10px;
+    color: #a1d3eb;
+    background-color: #400757;
+}
+
+#add-gif:hover {
+    background-color: #81bcd8;
+    color: white;
+}
+
+/* gif wrapper */
+#gif-display {
+    display: block;
+    margin: auto;
+    width: 40%;
+    padding: 20px;
+} 

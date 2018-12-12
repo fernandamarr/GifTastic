@@ -1,6 +1,6 @@
 # GifTastic
 
-1. A GifTastic app of  cartoons. The app takes the topic of 90's cartoons and creates buttons. 
+1. A GifTastic app of  emotions. The app takes the topic of emotions and creates buttons. 
 
 2. The user clicks on a button to use the app. When the button is clicked,the page grabs 10 static non-animated gif images from the GIPHY API and places them on the page.
 
