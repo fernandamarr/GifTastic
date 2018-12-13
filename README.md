@@ -1,5 +1,5 @@
 
-![Alt Text](https://i.gifer.com/1t3.gif)
+![](https://i.gifer.com/1t3.gif)
 
 <h1>GifTastic!</h1>
 
