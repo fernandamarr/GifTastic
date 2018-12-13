@@ -23,6 +23,5 @@ A dynamic web page that populates with cartoon character gifs.
 4. Ratings are displayed under every gif (PG,G, so on).
 
 5. Create a button by typing in a cartoon in the Search Box and click "GifTastic!" to add the button to the page. Click the button to display the gif.
-
-![](https://typeset-beta.imgix.net/lovelace/uploads/491/8bcf63c0-cf29-0132-4708-0e9062a7590a.gif)
+(https://typeset-beta.imgix.net/lovelace/uploads/491/8bcf63c0-cf29-0132-4708-0e9062a7590a.gif)
 
