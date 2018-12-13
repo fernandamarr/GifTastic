@@ -1,7 +1,6 @@
+<h1>GifTastic!</h1>
 
 ![](https://i.gifer.com/1t3.gif)
-
-<h1>GifTastic!</h1>
 
 A dynamic web page that populates with cartoon character gifs.
 

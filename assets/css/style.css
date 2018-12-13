@@ -55,3 +55,17 @@ form {
     width: 40%;
     padding: 20px;
 } 
+
+/* Media Queries */
+/* Mobile */
+@media screen and (max-width: 640px) {
+    form {
+        width: 100%;
+        margin-right: -295px;
+        margin-top: 50px;
+    } 
+    
+    #gif-display {
+        margin-top: 130px;
+    }
+}
