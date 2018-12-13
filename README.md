@@ -1,20 +1,28 @@
+<h1>GifTastic!</h1>
+<hr>
 ![Alt Text](https://i.gifer.com/1t3.gif)
 
-<h1>GifTastic!<h1>
-<hr>
 A dynamic web page that populates with cartoon character gifs.
 
-<h3>Built With</h3>
+<h2>Built With</h2>
 <hr>
-HTML, CSS, JavaScript, jQuery, Ajax
+* HTML
+* CSS/Bootstrap
+* JavaScript
+* jQuery
+* Ajax Call/API
 
-<h3>API</h3>
-
-<h3>Getting Started</h3>
+<h2>Getting Started</h2>
 <hr>
-Click on a button to ue the app. When the button is clicked,the page will grab 10 static non-animated gif images and place them on the page.
+1. Click on a button to use the app. 
 
-Click on the images to animate them. Click on them again to make them stop playing. 
+2. When the button is clicked, the page will grab 10 static non-animated gif images and place them on the page.
 
-Ratings are displayed under every gif (PG,G, so on).
+3. Click on the images to animate them. Click on them again to make them stop playing. 
+
+4. Ratings are displayed under every gif (PG,G, so on).
+
+5. Create a button by typing in a cartoon in the Search Box and click "GifTastic!" to add the button to the page. Click the button to display the gif.
+
+![Alt Text](https://typeset-beta.imgix.net/lovelace/uploads/491/8bcf63c0-cf29-0132-4708-0e9062a7590a.gif)
 
