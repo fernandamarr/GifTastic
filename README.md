@@ -20,7 +20,7 @@ A dynamic web page that populates with cartoon character gifs.
 
 3. Click on the images to animate them. Click on them again to make them stop playing. 
 
-4. Ratings are displayed under every gif (PG,G, so on).
+4. Ratings are displayed under every gif (PG, G, so on).
 
 5. Create a button by typing in a cartoon in the Search Box and click "GifTastic!" to add the button to the page. Click the button to display the gif.
 
