@@ -10,7 +10,8 @@ A dynamic web page that populates with cartoon character gifs.
 * CSS/Bootstrap
 * JavaScript
 * jQuery
-* Ajax Call/API
+* Ajax 
+* GIPHY API
 
 <h2>Getting Started</h2>
 
