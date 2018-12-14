@@ -74,6 +74,7 @@ form {
 } 
 
 /* Media Queries */
+
 /* Mobile */
 @media screen and (max-width: 640px) {
     form {
