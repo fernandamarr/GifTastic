@@ -40,7 +40,7 @@ form {
     float: right;
 }
 
-/*  */
+/* add gif submit button */
 #add-gif {
     margin-top: 10px;
     margin-left: 100px;
@@ -65,7 +65,6 @@ form {
 /* gif wrapper */
 #gif-display {
     display: block;
-    /* float: left; */
     margin: auto;
     margin-top: 190px;
     margin-left: 360px;

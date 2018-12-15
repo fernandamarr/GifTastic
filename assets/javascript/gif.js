@@ -45,6 +45,7 @@ $(document).ready(function () {
 
                 // insert topicsImage at the end of div
                 topicsDiv.append(topicsImage);
+
                 // insert rating paragraph at the end of div
                 topicsDiv.append(p);
 
