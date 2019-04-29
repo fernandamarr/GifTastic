@@ -1,21 +1,21 @@
-<h1>GifTastic!</h1>
+# GifTastic!
 
 ![gif](https://i.gifer.com/1t3.gif)
 
 A dynamic web page that populates with cartoon character gifs.
 
-<h2>Built With</h2>
+## Built With
 
 * HTML
 * CSS/Bootstrap
 * JavaScript
 * jQuery
-* Ajax 
+* Ajax
 * GIPHY API
 
-<h2>Getting Started</h2>
+## Getting Started
 
-1. Click on a button to use the app. 
+1. Click on a button to use the app.
 
 2. When the button is clicked, the page will grab 10 static non-animated gif images and place them on the page.
 
@@ -26,4 +26,3 @@ A dynamic web page that populates with cartoon character gifs.
 5. Create a button by typing in a cartoon in the Search Box and click "GifTastic!" to add the button to the page. Click the button to display the gif.
 
 ![gif](https://typeset-beta.imgix.net/lovelace/uploads/491/8bcf63c0-cf29-0132-4708-0e9062a7590a.gif)
-
